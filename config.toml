@@ -1,0 +1,10 @@
+baseURL = "https://aussiestories.dk/"
+disablePathToLower = true
+languageCode = "en-us"
+title = "AUSSIESTORIES"
+feature_image = "/images/2019/03/IMG_6931-1.JPG"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
