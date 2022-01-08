@@ -1,4 +1,4 @@
-baseURL = "https://aussiestories.dk/"
+baseURL = "https://new.aussiestories.dk/"
 disablePathToLower = true
 languageCode = "en-us"
 title = "AUSSIESTORIES"
