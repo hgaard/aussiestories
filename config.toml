@@ -6,6 +6,10 @@ feature_image = "/images/2019/03/IMG_6931-1.JPG"
 
 theme = "casper3"
 
+[permalinks]
+  post = "/:slug/"
+  blog = "/:slug/"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
